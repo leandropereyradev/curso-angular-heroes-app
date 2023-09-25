@@ -10,3 +10,7 @@ body {
   background-color: #4a4a4a;
   color: aliceblue;
 }
+
+.spacer {
+  flex: 1 1 auto;
+}
